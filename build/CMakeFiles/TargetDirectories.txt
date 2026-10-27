@@ -1,0 +1,8 @@
+/home/kennedy-e-martin/projects/P3_starter/build/CMakeFiles/harness_core.dir
+/home/kennedy-e-martin/projects/P3_starter/build/CMakeFiles/miniharness.dir
+/home/kennedy-e-martin/projects/P3_starter/build/CMakeFiles/test_p2.dir
+/home/kennedy-e-martin/projects/P3_starter/build/CMakeFiles/test_p3.dir
+/home/kennedy-e-martin/projects/P3_starter/build/CMakeFiles/test_loop.dir
+/home/kennedy-e-martin/projects/P3_starter/build/CMakeFiles/test.dir
+/home/kennedy-e-martin/projects/P3_starter/build/CMakeFiles/edit_cache.dir
+/home/kennedy-e-martin/projects/P3_starter/build/CMakeFiles/rebuild_cache.dir
