@@ -1,6 +1,6 @@
 # Project 3 Design Log
-**Author:** <Kennedy Martin> · **P2 code used:** <instructor reference>
-**Tools used:** <AI assistant for debugging, troubleshooting, and polishing design log>
+**Author:** Kennedy Martin  **P2 code used:** instructor reference
+**Tools used:** AI assistant for debugging, troubleshooting, and polishing design log
 
 
 ## 1. Hash table
